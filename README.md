@@ -275,8 +275,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration:
 - **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourname)
+- **GitHub**: [@J-anubhav](https://github.com/J-anubhav)
+- **LinkedIn**: [Anubhav Jha](https://linkedin.com/in/jha_anubhav)
 
 ---
 
